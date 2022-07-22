@@ -1,0 +1,6 @@
+script R para aplicação do método AHP para ponderação dos pesos dos critério;
+o código realiza o cálculo dos vetores por meio da potenciação das matrizes
+
+Potência da Matriz
+ Se só elevar ao quadrado, ou à terça, a matriz provavelmente não chegará coeficientes com precisão garantindo a aproximação até a quarta casa. 
+ Diante do exposto, foi utilizada a potência de 10.
